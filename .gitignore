@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# uv
+.uv/
+uv.lock
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+
+# Logs
+*.log
